@@ -96,6 +96,10 @@ const config = {
                 label: 'Kavyalu',
                 to: '/docs/kavyalu',
               },
+              {
+                label: 'కాశి',
+                to: 'docs/Kaasi/kaasiviswasra_satakam',
+              },
             ],
           },
           {
